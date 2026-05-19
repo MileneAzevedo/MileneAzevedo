@@ -1,7 +1,7 @@
 ### Olá, eu sou a Milene 👋
 
-- 🚀 Desenvolvedora Backend em transição de carreira  
+- 🚀 Desenvolvedora Backend 
 - 🧠 Estudante de ADS + cursos na Alura  
-- 👩‍💻 Foco em **Java | Spring Boot | SQL | APIs REST**  
+- 👩‍💻 Foco em **Java | Python**  
 - 🌱 Atualmente estudando: aprofundamento em **Spring Boot** e **deploy de aplicações**  
-- 💼 Buscando oportunidade como **Estagiária** ou **Desenvolvedora Júnior**  
+- 💼 Assistente de Dados
